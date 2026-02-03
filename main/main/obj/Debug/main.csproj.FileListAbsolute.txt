@@ -1,0 +1,15 @@
+C:\Users\zekex\source\repos\main\main\bin\Debug\main.exe.config
+C:\Users\zekex\source\repos\main\main\bin\Debug\main.exe
+C:\Users\zekex\source\repos\main\main\bin\Debug\main.pdb
+C:\Users\zekex\source\repos\main\main\obj\Debug\main.csproj.AssemblyReference.cache
+C:\Users\zekex\source\repos\main\main\obj\Debug\main.Form1.resources
+C:\Users\zekex\source\repos\main\main\obj\Debug\main.Properties.Resources.resources
+C:\Users\zekex\source\repos\main\main\obj\Debug\main.csproj.GenerateResource.cache
+C:\Users\zekex\source\repos\main\main\obj\Debug\main.csproj.CoreCompileInputs.cache
+C:\Users\zekex\source\repos\main\main\obj\Debug\main.exe
+C:\Users\zekex\source\repos\main\main\obj\Debug\main.pdb
+C:\Users\zekex\source\repos\main\main\bin\Debug\MetroFramework.Design.dll
+C:\Users\zekex\source\repos\main\main\bin\Debug\MetroFramework.dll
+C:\Users\zekex\source\repos\main\main\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\zekex\source\repos\main\main\obj\Debug\main.csproj.Up2Date
+C:\Users\zekex\source\repos\main\main\obj\Debug\main.exe.config
